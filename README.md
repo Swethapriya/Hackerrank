@@ -1,3 +1,2 @@
-projects/competitions on hackerrank
-
+project Euler
 # Hackerrank
