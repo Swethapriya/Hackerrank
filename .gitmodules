@@ -1,0 +1,3 @@
+[submodule "MusicTranscript"]
+	path = MusicTranscript
+	url = https://github.com/Swethapriya/MusicTranscript.git
